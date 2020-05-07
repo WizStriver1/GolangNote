@@ -2019,6 +2019,8 @@ src/
 
 [无闻的Go编程基础](https://learnku.com/docs/go-fundamental-programming)
 
+[GoWeb编程](https://learnku.com/docs/build-web-application-with-golang/012-gopath-and-workspace/3154)
+
 [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN)
 
 [Go标准库(包含说明和示例)](https://github.com/astaxie/gopkg)
