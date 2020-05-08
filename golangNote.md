@@ -2162,6 +2162,14 @@ go run 编译并运行 Go 程序
 ```
 以上这些工具还有很多参数没有一一介绍，用户可以使用 go help 命令 获取更详细的帮助信息。
 
+# Go开发工具
+
+### Sublime
+
+Sublime Text 3（以下简称 Sublime）+ GoSublime + gocode的组合
+
+可直接使用Golang Tools Integration
+
 # Go开源项目
 
 [gitea](https://github.com/search?q=gitea)
