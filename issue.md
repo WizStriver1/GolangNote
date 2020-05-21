@@ -26,3 +26,6 @@ func printSlice(s []int) {
 // len=2 cap=2 [2 3]
 // len=5 cap=6 [2 3 2 3 4] // 为什么容量是6
 ```
+
+# go web
+

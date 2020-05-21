@@ -1584,7 +1584,7 @@ func main() {
   }
 }
 ```
-
+# rot13Reader
 **练习: rot13Reader**
 有种常见的模式是一个 io.Reader 包装另一个 io.Reader，然后通过某种方式修改其数据流。
 
